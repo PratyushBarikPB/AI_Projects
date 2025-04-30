@@ -1,0 +1,8 @@
+The AI Desktop Assistant project focused on enhancing productivity by automating routine desktop tasks.
+Features:
+
+Task Automation: Automated repetitive tasks like opening applications, managing files, sending emails, and setting reminders.
+Natural Language Processing (NLP): Enabled the assistant to understand and respond to user commands in natural language.
+Voice Command Integration: Allowed hands-free operation by processing voice inputs for task execution.
+Customizable Functions: Users could add or modify tasks based on their preferences or workflow.
+Programming Languages: Primarily implemented in Python due to its extensive libraries for AI and automation.
